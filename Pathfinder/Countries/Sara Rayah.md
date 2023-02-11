@@ -1,0 +1,5 @@
+The second largest empire in the world, recently out of a 100 year war against Astrara, a stalemate that lost them one city and many lives. In the three years since that final conflict the country has grown strong again under the careful gaze of a new Emperor after the last was executed by his council  for his failure in the war campaign.
+
+The Sara Rayah Empire are a ruthless, expanding empire, slavery is endoresed and one of the core reasons why the empire is so strong. The slavery operates similarly to how the Byzanteen empire ruled it, that a slave could raise to the highest ranks of office and one of the members of the Emperors council is always an Ex slave so that the emperor will have the ear of all members of his land. (an ancient tradition since one of the old emperors was saved from near defeat by the advice of his slave assistant. 
+
+The people believe in a pantheon of gods, the head of which (merely referred to as god) is worshiped above all.  Generally the people in the empire and around it worship this god, but the ways the religion is practiced is mandated by the empire, it is strict, hard and ruthless to those who are out of line.

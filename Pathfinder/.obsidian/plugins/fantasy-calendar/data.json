@@ -1,0 +1,199 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Hithelian Calander",
+      "description": null,
+      "id": null,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Lundis",
+            "id": "ID_394a89fb1a49"
+          },
+          {
+            "type": "day",
+            "name": "Tandis",
+            "id": "ID_aa5a296bab0b"
+          },
+          {
+            "type": "day",
+            "name": "Astis",
+            "id": "ID_3b79191809ca"
+          },
+          {
+            "type": "day",
+            "name": "Centis",
+            "id": "ID_7bc87b49b889"
+          },
+          {
+            "type": "day",
+            "name": "Fradis",
+            "id": "ID_6b4a7ad9086b"
+          },
+          {
+            "type": "day",
+            "name": "Norndis",
+            "id": "ID_6b5ba87bd96b"
+          },
+          {
+            "type": "day",
+            "name": "Felladis",
+            "id": "ID_5bd87a4b29d8"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "First Rise",
+            "length": 31,
+            "id": "ID_29794b792b38"
+          },
+          {
+            "type": "month",
+            "name": "Dawn Light",
+            "length": 26,
+            "id": "ID_c8dbaac8d839"
+          },
+          {
+            "type": "month",
+            "name": "Athillas Blessing",
+            "length": 33,
+            "id": "ID_7abb2a280a09"
+          },
+          {
+            "type": "month",
+            "name": "April",
+            "length": 31,
+            "id": "ID_091839daabf8"
+          },
+          {
+            "type": "month",
+            "name": "May",
+            "length": 31,
+            "id": "ID_1b7878591bfb"
+          },
+          {
+            "type": "month",
+            "name": "Half Turn",
+            "length": 30,
+            "id": "ID_587aabe959ea"
+          },
+          {
+            "type": "intercalary",
+            "name": "Moon Path",
+            "length": 1,
+            "id": "ID_ebeaeb0abac9"
+          },
+          {
+            "type": "month",
+            "name": "July",
+            "length": 31,
+            "id": "ID_ea5bc9c8fb7a"
+          },
+          {
+            "type": "month",
+            "name": "Aughust ",
+            "length": 30,
+            "id": "ID_eaaabbda79f8"
+          },
+          {
+            "type": "month",
+            "name": "Harvest End",
+            "length": 31,
+            "id": "ID_8a0b5a8a88da"
+          },
+          {
+            "type": "month",
+            "name": "Frost Break",
+            "length": 31,
+            "id": "ID_2a397a6bc9b8"
+          },
+          {
+            "type": "month",
+            "name": "Dusk Fall",
+            "length": 30,
+            "id": "ID_297bb83a19c9"
+          },
+          {
+            "type": "month",
+            "name": "December",
+            "length": 31,
+            "id": "ID_2aa8eb7acadb"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Aralolth",
+            "cycle": 31,
+            "offset": 3,
+            "faceColor": "#d7d9b4",
+            "shadowColor": "#000",
+            "id": "ID_388a2bbb1be8"
+          },
+          {
+            "name": "Beran ",
+            "cycle": 30,
+            "offset": 1,
+            "faceColor": "#df8b8b",
+            "shadowColor": "#000",
+            "id": "ID_9978c9ab889a"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [],
+        "useCustomYears": false,
+        "years": [
+          {
+            "name": null,
+            "id": "ID_5bea38096a49",
+            "type": "year"
+          }
+        ]
+      },
+      "current": {
+        "year": 3521,
+        "month": 2,
+        "day": 17
+      },
+      "events": [],
+      "categories": [],
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": true,
+      "timelineTag": "#timeline"
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": null,
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": false,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

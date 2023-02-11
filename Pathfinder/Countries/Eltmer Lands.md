@@ -1,0 +1,1 @@
+The Land of the ‘wood [[elves]]’ separatists who did not like the structure of the Hithillian, believing that their way of rule would be better. The Eltmer live in forested cities and subsist on what nature provides. Their territory is considered highly dangerous as they do not give great exception to outsiders.
