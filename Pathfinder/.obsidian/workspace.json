@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "285978130ebda691",
+        "id": "385fa6ed58137aea",
         "type": "tabs",
         "children": [
           {
-            "id": "c7b7f742e94a4f6d",
+            "id": "52d6a20e8cae6758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/Astaria.md",
+                "file": "Countries/The Grand Coalition/Strange Departures.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a80b9a1c4eca4794",
+            "id": "cad02b29cc598fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCS/Wizards in the Circle of Arcanon/Corin the Silver.md",
+                "file": "NPCS/Eodar Van.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7486fe4fff815458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/Chapter One.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,6 +88,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "8a4caa8d464d3a89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,9 +117,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCS/Wizards in the Circle of Arcanon/Corin the Silver.md",
+                "file": "Countries/The Grand Coalition/Strange Departures.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -115,9 +134,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCS/Wizards in the Circle of Arcanon/Corin the Silver.md",
+                "file": "Countries/The Grand Coalition/Strange Departures.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCS/Wizards in the Circle of Arcanon/Corin the Silver.md"
+                "file": "Countries/The Grand Coalition/Strange Departures.md"
               }
             }
           },
@@ -151,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,17 +187,36 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "a80b9a1c4eca4794",
+  "active": "52d6a20e8cae6758",
   "lastOpenFiles": [
-    "Countries/Countries.md",
-    "Countries/Untitled.md",
-    "Countries/Astaria.md",
-    "Countries/Hithillian Conclave.md",
     "Countries/Eltmer Lands.md",
+    "Countries/Hithillian Conclave.md",
+    "Countries/The Grand Coalition/Strange Departures.md",
+    "Countries/Astaria/The Ruins of Tharund.md",
+    "Campaign Notes/Chapter One.md",
+    "NPCS/Eodar Van.md",
+    "NPCS/Lyndfallan Thund-Kyraleth.md",
     "DM Tools/World Notes.md",
-    "Organisations/Circle of Arcanon.md",
-    "Ancestries/Humans.md",
+    "Countries/The Grand Coalition/The Grand Coalition.md",
+    "Countries/Astaria/Astaria.md",
+    "Countries/Countries.md",
+    "Ancestries/Catfolk.md",
     "Ancestries/Elves.md",
-    "NPCS/Wizards in the Circle of Arcanon/Corin the Silver.md"
+    "Countries/The Grand Coalition.md",
+    "Countries/The Grand Coalition",
+    "NPCS/Wizards in the Circle of Arcanon/Corin the Silver.md",
+    "NPCS/Wizards in the Circle of Arcanon/Wizards in the Circle of Arcanon.md",
+    "Countries/Remes Union.md",
+    "Countries/Tuas Merah.md",
+    "Countries/Tyric.md",
+    "Countries/Kur-Doma.md",
+    "Countries/Rednia.md",
+    "Organisations/Circle of Arcanon.md",
+    "Session -0/Session -0.md",
+    "Session -0/General History.md",
+    "Untitled.md",
+    "Ancestries/Halfling.md",
+    "Campaign Notes",
+    "Countries/Astaria"
   ]
 }
