@@ -26,5 +26,6 @@ Sleeping in the town they could try to lodge with someone for the night or they 
 
 During the night the players will roll perception, if they do they will be awoken by a noise in the night, investigating it they will see two figures move in the darkness, one person is covered in heavy robes and cloaks that cover almost all of his body.  a high perception will show the players that he has red skin and a movement behind his legs implys that there is some kind of tail there. this man is being forcefully directed by a tall and broad man. 
 
-From there they would watch as he takes him to the the general store, unlocks the doors, and enters. Dissapearing from sight.  From here go to [Strange Departures quest]
+From there they would watch as he takes him to the the general store, unlocks the doors, and enters. Dissapearing from sight.  From here go to [Strange Departures quest] 
 
+following this they will be free in the town to spend as much time helping out, if they want to take any paid rout out of town they will need to raise funds for this there are some options for this, they could assist in killing a beast that operates in the nearby caverns.

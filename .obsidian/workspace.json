@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "6c7f6ca434b3e741",
+    "type": "split",
+    "children": [
+      {
+        "id": "5562b450b3b06291",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f9cb16d3b30ee8e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7594b553a8a97be0",
+    "type": "split",
+    "children": [
+      {
+        "id": "636852df9c460d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5d22a7019d646be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4bc33dbabb1481a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fece8f699028fa4b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0f82dc721a66ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8acfd775f8193e36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e03693681e4556be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49fa6b37865b848d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4912701c033901f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30e3c13dddf6412a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a5d22a7019d646be",
+  "lastOpenFiles": [
+    "Pathfinder/Countries/The Grand Coalition/First Stand.md",
+    "Pathfinder/Countries/The Grand Coalition/Untitled.md",
+    "Pathfinder/Countries/The Grand Coalition/The Grand Coalition.md",
+    "Pathfinder/Countries/The Grand Coalition/Strange Departures.md",
+    "Pathfinder/Countries/The Grand Coalition",
+    "Pathfinder/Countries/Astaria/The Grand Coalition/The Grand Coalition.md",
+    "Pathfinder/Countries/Astaria/The Grand Coalition/Strange Departures.md",
+    "Pathfinder/Countries/Astaria/The Grand Coalition"
+  ]
+}

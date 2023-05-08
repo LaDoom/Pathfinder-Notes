@@ -21,11 +21,21 @@ The Seven Swans - The local tavern, ran by a husband and wife, their daughter an
 
 
 
+
+
 ##### *Quests in Strange Departures*
 
 ###### *- People Smuggling*
 
 In the town of strange departures the deputy of the Trade Coallition is assisinting in a people smuggaling ring who are taking slaves from Tuas Merah and the border with tyric down south through the Amunn River, through a tight run off that leads for a few miles on the path towards Sara Rayah.  
+
+#### - a beast in the caves
+
+They will hear that there is a beast in the caves that lay a few miles down the coast, it has been causing trouble in the village and has been the cause of numerous boats going missing a few miles into water.
+
+investigating the players will find a small cult of goblins (cousins of the orruks) who worship a great anthibious scorpion beast. 
+
+The
 
 
 
