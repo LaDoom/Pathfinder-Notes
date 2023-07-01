@@ -168,7 +168,8 @@
       "path": "/",
       "supportTimelines": false,
       "syncTimelines": true,
-      "timelineTag": "#timeline"
+      "timelineTag": "#timeline",
+      "displayWeeks": true
     }
   ],
   "configDirectory": null,

@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52d6a20e8cae6758",
+            "id": "11211ba7bfe87b2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Chapter One.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cad02b29cc598fcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCS/Eodar Van.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7486fe4fff815458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Chapter One.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19a4a06af4ca1b1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Countries/The Grand Coalition/Strange Departures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb7cfc506f69dc9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/Chapter One.md",
+                "file": "Session -0/General History.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 264.5
   },
   "right": {
     "id": "46928fd29f09ae06",
@@ -142,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Chapter One.md",
+                "file": "Session -0/General History.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Chapter One.md",
+                "file": "Session -0/General History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Chapter One.md"
+                "file": "Session -0/General History.md"
               }
             }
           },
@@ -195,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -211,35 +163,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb7cfc506f69dc9d",
+  "active": "11211ba7bfe87b2f",
   "lastOpenFiles": [
-    "Countries/The Grand Coalition/First Stand.md",
-    "Countries/The Grand Coalition/Strange Departures.md",
-    "Countries/Astaria/The Ruins of Tharund.md",
-    "Countries/Countries.md",
-    "Countries/Astaria/Astaria.md",
-    "Campaign Notes/Chapter One.md",
-    "Countries/Eltmer Lands.md",
-    "Countries/Hithillian Conclave.md",
     "NPCS/Eodar Van.md",
     "NPCS/Lyndfallan Thund-Kyraleth.md",
-    "DM Tools/World Notes.md",
-    "Countries/The Grand Coalition/The Grand Coalition.md",
-    "Ancestries/Catfolk.md",
-    "Ancestries/Elves.md",
-    "Countries/The Grand Coalition.md",
-    "Countries/The Grand Coalition",
+    "NPCS/Wizards in the Circle of Arcanon/Frode The Black.md",
     "NPCS/Wizards in the Circle of Arcanon/Corin the Silver.md",
+    "Countries/The Grand Coalition/First Stand.md",
+    "Countries/The Grand Coalition/Strange Departures.md",
+    "Countries/The Grand Coalition/Last Stand.md",
+    "Countries/The Grand Coalition/The Grand Coalition.md",
+    "Countries/Hithillian Conclave.md",
+    "Countries/Eltmer Lands.md",
+    "Countries/Astaria/The Ruins of Tharund.md",
+    "Campaign Notes/Overarching Campaign.md",
+    "Campaign Notes/Lore Notes.md",
+    "Campaign Notes/Chapter One.md",
+    "DM Tools/Audio Links.md",
+    "Ancestries/Catfolk.md",
     "NPCS/Wizards in the Circle of Arcanon/Wizards in the Circle of Arcanon.md",
-    "Countries/Remes Union.md",
-    "Countries/Tuas Merah.md",
+    "Countries/Countries.md",
+    "Ancestries/Elves.md",
+    "DM Tools/World Notes.md",
     "Countries/Tyric.md",
     "Countries/Kur-Doma.md",
-    "Countries/Rednia.md",
-    "Organisations/Circle of Arcanon.md",
-    "Session -0/Session -0.md",
-    "Session -0/General History.md",
-    "Untitled.md",
+    "Ancestries/Dwarves.md",
+    "Ancestries/Humans.md",
+    "Countries/Tuas Merah.md",
+    "Countries/Astaria/Astaria.md",
+    "Countries/The Grand Coalition",
     "Campaign Notes",
     "Countries/Astaria"
   ]
