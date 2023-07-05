@@ -8,4 +8,6 @@ The coalition itself has splintered, a few smaller nations forming off of it. Th
 
 *How society operates*
 
-The Grand coalition operates as a socialist sect of ‘coalitions’ set into regions which elect representatives for that region. There are no business owners per se, instead a business is ran as a coalition, each member getting a vote on how things move forward with the founder acting as a chair. Depending on the trade they may be part of a wider coalition (EG. the Trade coalition, the smiths coalition, the toilers/farmers coalition) 
+The Grand coalition operates as a socialist sociaty with no direct leader, insdead it is split into regions which elect representatives for that region. There are no business owners per se, instead a business is ran as a coalition, each member getting a vote on how things move forward with the founder acting as a chair. Depending on the trade they may be part of a wider coalition (EG. the Trade coalition, the smiths coalition, the toilers/farmers coalition) 
+
+

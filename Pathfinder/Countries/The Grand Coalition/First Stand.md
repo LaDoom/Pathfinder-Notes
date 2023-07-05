@@ -5,7 +5,8 @@ It will be the first major city that players will find themselves in, as they ar
 At the entrance to first stand people will be confronted with the hugue statue depicting Commander Yorden, an orc knight with a cloak in a rainbow of feathers, the cape is the only part of the statue that has been painted and colours. This simploises the union of all peoples, banding together against the hithillian. The orc charges forward, against the oncoming army, forever still in the act that spelled his doom.
 
 
-*Problems in First Strand*
+ *What to do in First Stand*
 
-- Bandits on the road that have yet to have been caught. the leader of which has made a name for himself as a rougthless, violent outlaw. The guard have sent a few regiments against them but haven't been able to find their base, most guards have come back wounded or dead. They've been operating in the area for about four months now. 
+- Bandits on the road that have yet to have been caught. the leader of which has made a name for himself as a ruthless, violent outlaw. The guard have sent a few regiments against them but haven't been able to find their base, most guards have come back wounded or dead. They've been operating in the area for about four months now. The bandits actually have a base in the city that they are headquatering out off, with influence from a prominant member of the city.okok
+- There are preliminarire for The Grand Tournament which is planned to happen in about a week from the players arrival. 
 - 

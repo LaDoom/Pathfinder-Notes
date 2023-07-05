@@ -76,7 +76,7 @@ Kellan's home is a small somewhat cramped space, he does not have much, general 
 
 He keeps a sword and some armour underneath his bed. 
 
-##### Confronting him
+###### Confronting him
 
 
 
@@ -89,18 +89,6 @@ He keeps a sword and some armour underneath his bed.
 They will hear that there is a beast in the caves that lay a few miles down the coast, it has been causing trouble in the village and has been the cause of numerous boats going missing a few miles into water.
 
 investigating the players will find a small cult of goblins (cousins of the orruks) who worship a great anthibious scorpion beast. 
-
-
-
-
- 
-
-
-
-
-
-
-
 
 
 
