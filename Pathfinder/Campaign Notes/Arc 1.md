@@ -2,7 +2,7 @@
 
 Players begin by being all brought together on a ship departing from [[Tuas Merah]] to [[The Grand Coalition]], on the ship they are attacked by enemies, perhaps leading to the ship being crashed? from here they are tasked to go alone and do some small diplomatic mission. After this on their way back to the [[Circle of Arcanon]] they deal with a new situation that seems to have something to do with the growing talk of monsters and demons. 
 
-### Traveling through the Grand Coalition
+#### Traveling through the Grand Coalition
 
 The players will be tasked first with getting from the Port town of [[Strange Departures]],  will help the people and get a small elven artifact as a reward, by foot or horse they will travel towards their first city [[First Stand]].  on the road to [[first stand]] they will be attacked by a pack of wolves, the leader of which seems, larger and fiercer. more demonic somehow. There they will deal with a small situation in that city that will have a faint connection with the demons, a group of some kind causing trouble, the leader of which is like the dog, bigger and more dangerous somehow.
 

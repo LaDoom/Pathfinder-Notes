@@ -45,7 +45,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Session Notes/Session 1.md",
+                "file": "Campaign Notes/Arc 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cb0a350e44d2537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Tools/Initiative.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,9 +138,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Session Notes/Session 1.md",
+                "file": "Campaign Notes/Arc 1.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Session Notes/Session 1.md",
+                "file": "Campaign Notes/Arc 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Session Notes/Session 1.md"
+                "file": "Campaign Notes/Arc 1.md"
               }
             }
           },
@@ -177,13 +189,21 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "cda3f8fc3a41ebb3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,37 +213,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
   "active": "db95c8860c721df2",
   "lastOpenFiles": [
+    "Campaign Notes/Session Notes/Session 1.md",
+    "Campaign Notes/Mini Adventure/Session One.md",
+    "Organisations/Circle of Arcanon.md",
+    "Session -0/General History.md",
+    "Images/Pasted image 20230902012241.png",
+    "Images/Pasted image 20230902014357.png",
+    "Monsters/Bahgvat.md",
+    "Ancestries/Catfolk.md",
+    "Countries/Tyric.md",
+    "Images/Pasted image 20230902012247.png",
+    "DM Tools/Initiative.md",
+    "Countries/Tuas Merah.md",
+    "Images/Pasted image 20230902001636.png",
+    "Images",
+    "Campaign Notes/Mini Adventure/Mini Adventure.md",
+    "Monsters",
+    "Ancestries/Elves.md",
+    "Campaign Notes/Mini Adventure",
     "Campaign Notes/Arc 1.md",
+    "Countries/Eltmer Lands.md",
+    "Countries/Hithillian Conclave.md",
+    "Countries/The Grand Coalition/First Stand.md",
+    "Countries/The Grand Coalition/Strange Departures.md",
     "Campaign Notes/Lore Notes.md",
     "Campaign Notes/Overarching Campaign.md",
-    "Campaign Notes/Session Notes/Session 1.md",
     "Campaign Notes/Session Notes",
-    "Countries/The Grand Coalition/First Stand.md",
     "Countries/Astaria/The Ruins of Tharund.md",
     "NPCS/Lyndfallan Thund-Kyraleth.md",
-    "Countries/The Grand Coalition/Strange Departures.md",
     "Countries/The Grand Coalition/Last Stand.md",
     "Ancestries/Dwarves.md",
-    "Ancestries/Catfolk.md",
     "Ancestries/Humans.md",
-    "Ancestries/Elves.md",
     "Countries/The Grand Coalition/The Grand Coalition.md",
     "Countries/Sara Rayah.md",
     "Countries/Rednia.md",
-    "DM Tools/World Notes.md",
-    "Session -0/General History.md",
-    "NPCS/Eodar Van.md",
-    "NPCS/Wizards in the Circle of Arcanon/Frode The Black.md",
-    "NPCS/Wizards in the Circle of Arcanon/Corin the Silver.md",
-    "Countries/Hithillian Conclave.md",
-    "Countries/Eltmer Lands.md",
-    "DM Tools/Audio Links.md",
-    "NPCS/Wizards in the Circle of Arcanon/Wizards in the Circle of Arcanon.md",
     "Countries/The Grand Coalition",
     "Campaign Notes",
     "Countries/Astaria"

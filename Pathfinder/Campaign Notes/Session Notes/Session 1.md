@@ -14,5 +14,5 @@ A no nonsense blacksmith transporting rare goods into the Grand Coalition. She h
 
 A band of riders with black horses, burned with glowing brands attack the ship, servents of The lord of the relm of shadows (name pending) this focused attack is to as effectively cause doom for everyone on board. They are seeking to kill the heir of Solvrenna, the boy who holds the amulet of Stars and the party who may become the lord of Shadows greatest threat. The riders only have a limited time to do their work before the portal to their realm closes.
 
-The Ship is rocked by a great exlosion as the warriors cast a great spell at it as they approach. Players will make a perception roll for how quickly they all wake up ready. some are in shared quaters and some in private. those in the shared quaters are attacked by two warriors who will aim for Lydias character and the Senators Son. 
+The Ship is rocked by a great explosion as the warriors cast a great spell at it as they approach. Players will make a perception roll for how quickly they all wake up ready. some are in shared quaters and some in private. those in the shared quarters are attacked by two warriors who will aim for Lydias character and the Senators Son. 
 
