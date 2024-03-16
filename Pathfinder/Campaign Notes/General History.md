@@ -9,7 +9,7 @@ Their civilization prospered, had control over all corners of the world and then
 
   
 
-Taking this to their advantage, other races, dwarves, orcs halfling and the catfolk of the south and east began bloody rebellion. 
+Taking this to their advantage, other races, dwarves, orcs halfling and the wildfolk of the south and east began bloody rebellion. 
 
   
 

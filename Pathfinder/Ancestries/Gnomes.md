@@ -1,1 +1,1 @@
-The Gnomes.
+The Gnomes are relatively recent sailed over the seas from great ships from the east, trading their black powder and technology with the mainland. Some have setteled to set up work or engeneer in the lands. 

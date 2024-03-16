@@ -1,4 +1,6 @@
-The dwarves are a varied people, some are shrewd tradesmen or stocky hunters. They have an affinity for mines and the underground and are some of the best at forging tools due to secrets passed from dwarven smith to smith. Across the world there are communities and cities of dwarves wherever there are resources.
+The dwarves are a varied people, some are shrewd tradesmen or stocky hunters. They have an affinity for mines and the underground and are some of the best at forging tools due to secrets passed from dwarven smith to smith. Across the world there are communities and cities of dwarves wherever there are resources. 
+
+The Dwarves crystalise as they reach an advanced age and seek to return to the mountians of Kur-Doma and become one with the mountin (which is the remnents of their god)
 
 ### History
 

@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Session Notes/Session 1.md",
+                "file": "Session Notes/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,26 +45,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Arc 1.md",
+                "file": "Ancestries/Dwarves.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5cb0a350e44d2537",
+            "id": "33ac423b552f2f82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Tools/Initiative.md",
+                "file": "Ancestries/Tiefling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ea7a1a48c8430d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Countries/The Grand Coalition/The Grand Coalition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Arc 1.md",
+                "file": "Countries/The Grand Coalition/The Grand Coalition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Arc 1.md",
+                "file": "Countries/The Grand Coalition/The Grand Coalition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Arc 1.md"
+                "file": "Countries/The Grand Coalition/The Grand Coalition.md"
               }
             }
           },
@@ -197,9 +209,21 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "261ed03fda1f81ce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,42 +242,43 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "db95c8860c721df2",
+  "active": "9ea7a1a48c8430d4",
   "lastOpenFiles": [
-    "Campaign Notes/Session Notes/Session 1.md",
-    "Campaign Notes/Mini Adventure/Session One.md",
+    "NPCS/Wizards in the Circle of Arcanon/Wizards in the Circle of Arcanon.md",
     "Organisations/Circle of Arcanon.md",
-    "Session -0/General History.md",
-    "Images/Pasted image 20230902012241.png",
-    "Images/Pasted image 20230902014357.png",
-    "Monsters/Bahgvat.md",
-    "Ancestries/Catfolk.md",
-    "Countries/Tyric.md",
-    "Images/Pasted image 20230902012247.png",
-    "DM Tools/Initiative.md",
-    "Countries/Tuas Merah.md",
-    "Images/Pasted image 20230902001636.png",
-    "Images",
-    "Campaign Notes/Mini Adventure/Mini Adventure.md",
-    "Monsters",
-    "Ancestries/Elves.md",
-    "Campaign Notes/Mini Adventure",
-    "Campaign Notes/Arc 1.md",
-    "Countries/Eltmer Lands.md",
+    "Session -0/Primer.md",
     "Countries/Hithillian Conclave.md",
-    "Countries/The Grand Coalition/First Stand.md",
-    "Countries/The Grand Coalition/Strange Departures.md",
     "Campaign Notes/Lore Notes.md",
     "Campaign Notes/Overarching Campaign.md",
-    "Campaign Notes/Session Notes",
-    "Countries/Astaria/The Ruins of Tharund.md",
+    "Campaign Notes/Important History Notes.md",
+    "Campaign Notes/General History.md",
+    "Campaign Notes/Arc 1.md",
     "NPCS/Lyndfallan Thund-Kyraleth.md",
-    "Countries/The Grand Coalition/Last Stand.md",
-    "Ancestries/Dwarves.md",
+    "NPCS/Eodar Van.md",
+    "NPCS/Wizards in the Circle of Arcanon/Frode The Black.md",
+    "NPCS/Wizards in the Circle of Arcanon/Corin the Silver.md",
+    "Monsters/Bahgvat.md",
+    "Ancestries/Wildfolk.md",
+    "Ancestries/Tiefling.md",
+    "Ancestries/Orcs.md",
     "Ancestries/Humans.md",
+    "Ancestries/Halfling.md",
+    "Ancestries/Gnomes.md",
+    "Ancestries/Elves.md",
+    "Ancestries/Dwarves.md",
+    "Countries/Astaria/Astaria.md",
     "Countries/The Grand Coalition/The Grand Coalition.md",
-    "Countries/Sara Rayah.md",
-    "Countries/Rednia.md",
+    "Countries/Remes Union.md",
+    "Countries/Eltmer Lands.md",
+    "Images/Pasted image 20230902014357.png",
+    "Images/Pasted image 20230902012247.png",
+    "Images/Pasted image 20230902012241.png",
+    "Images/Pasted image 20230902001636.png",
+    "Campaign Notes/Players",
+    "Images",
+    "Monsters",
+    "Session Notes/Mini Adventure",
+    "Session Notes",
     "Countries/The Grand Coalition",
     "Campaign Notes",
     "Countries/Astaria"

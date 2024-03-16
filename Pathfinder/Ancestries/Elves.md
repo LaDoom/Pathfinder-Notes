@@ -1,8 +1,8 @@
 Elves (as is the Human term for them) originally ruled most of their world, their towering cities dominated the land, and then civil war broke out. The resulting age of chaos led to their lands being decimated to a fraction of what they used to be and splitting the elves into smaller groups.
 
-*Hithillian* - the original Elvish people who dominated the world. They are insular people who seek to preserve what remains of their territory. They live in cities made of towering white marble and segmented buildings. 
+*Hithillian* - the original Elvish people who dominated the world. They are insular people who seek to preserve what remains of their territory. They live in cities made of towering white marble. 
 
-*Eltmer* - The elves of the Wood, more in tune with nature. They were the elves who instigated the civil war, seeking independence and their own land. They got it, a larger fraction of the world than the Hithillian, but still only a fraction of what the Elves used to have. Eltmer are more in tune with nature, and the ways of the world. Most no longer worship the old goddess and have found belief in other aspects of life. 
+*Eltmer* - The elves of the Wood, more in tune with nature. They were the elves who instigated the civil war, seeking independence and their own land. They got it, a larger fraction of the world than the Hithillian, but still only a fraction of what the Elves used to have. Eltmer are more in tune with nature, and the ways of the world. The Eltmer worship the Grove, a great sentiant land that guides the Eltmer leaders and turns them into dryads.
 
 *Drothkai* - The Drothkai are the elves who sided with neither faction in the civil war and resulting Age of Chaos, instead, they seek a different life. These elves made grand underground cities and seek to work alongside anyone peaceful enough to trade and interact. These elves are darker in their skin, with deep greys or purples with white or silver hair.
 
