@@ -33,31 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db95c8860c721df2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ancestries/Dwarves.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33ac423b552f2f82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ancestries/Tiefling.md",
+                "file": "Campaign Notes/Sessions/Session 1/Session 1 Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,14 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Countries/The Grand Coalition/The Grand Coalition.md",
+                "file": "Campaign Notes/Players/McRaye.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 279.5
   },
   "right": {
     "id": "46928fd29f09ae06",
@@ -150,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Countries/The Grand Coalition/The Grand Coalition.md",
+                "file": "Campaign Notes/Sessions/Session 1/Session 1 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Countries/The Grand Coalition/The Grand Coalition.md",
+                "file": "Campaign Notes/Sessions/Session 1/Session 1 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Countries/The Grand Coalition/The Grand Coalition.md"
+                "file": "Campaign Notes/Sessions/Session 1/Session 1 Note.md"
               }
             }
           },
@@ -221,13 +197,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "612080a1fcfff1ed",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,48 +223,54 @@
       "command-palette:Open command palette": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9ea7a1a48c8430d4",
+  "active": "fae9e24da4308a91",
   "lastOpenFiles": [
-    "NPCS/Wizards in the Circle of Arcanon/Wizards in the Circle of Arcanon.md",
-    "Organisations/Circle of Arcanon.md",
-    "Session -0/Primer.md",
-    "Countries/Hithillian Conclave.md",
-    "Campaign Notes/Lore Notes.md",
+    "Campaign Notes/Sessions/Session 1/Locations/Duhuan Market.md",
+    "Campaign Notes/Sessions/Session 1/Session 1 Note.md",
     "Campaign Notes/Overarching Campaign.md",
+    "Campaign Notes/Lore Notes.md",
     "Campaign Notes/Important History Notes.md",
     "Campaign Notes/General History.md",
     "Campaign Notes/Arc 1.md",
-    "NPCS/Lyndfallan Thund-Kyraleth.md",
-    "NPCS/Eodar Van.md",
-    "NPCS/Wizards in the Circle of Arcanon/Frode The Black.md",
-    "NPCS/Wizards in the Circle of Arcanon/Corin the Silver.md",
-    "Monsters/Bahgvat.md",
-    "Ancestries/Wildfolk.md",
-    "Ancestries/Tiefling.md",
-    "Ancestries/Orcs.md",
-    "Ancestries/Humans.md",
-    "Ancestries/Halfling.md",
-    "Ancestries/Gnomes.md",
-    "Ancestries/Elves.md",
-    "Ancestries/Dwarves.md",
-    "Countries/Astaria/Astaria.md",
-    "Countries/The Grand Coalition/The Grand Coalition.md",
-    "Countries/Remes Union.md",
-    "Countries/Eltmer Lands.md",
+    "Session Notes/Mini Adventure/Session One.md",
+    "Session Notes/Session 1.md",
+    "World/Countries/Tuas Merah/Yantai.md",
+    "Campaign Notes/Sessions/Session 1/Locations/The East Docks.md",
+    "Campaign Notes/Players/McRaye.md",
+    "Campaign Notes/Players/Molly.md",
+    "Campaign Notes/Players/Catrick.md",
+    "Campaign Notes/Players/Alania.md",
+    "Campaign Notes/Sessions/Session 1/Locations",
+    "World/NPCS/Eodar Van.md",
+    "World/Countries/Tuas Merah.md",
+    "World/Ancestries/Humans.md",
+    "World/Ancestries/Halfling.md",
+    "World/Countries/Tuas Merah/yantai.png",
+    "World/Countries/Tuas Merah/Tuas Merah.md",
+    "World/Countries/Tuas Merah/yantai 1.png",
+    "World/Countries/Tuas Merah",
+    "World/NPCS/Wizards in the Circle of Arcanon/Wizards in the Circle of Arcanon.md",
+    "World/Organisations/Circle of Arcanon.md",
+    "World/Map.jpg",
+    "World/NPCS/Wizards in the Circle of Arcanon/Frode The Black.md",
+    "Session -0/Primer.md",
+    "World/Ancestries/Dwarves.md",
+    "World/Ancestries/Gnomes.md",
     "Images/Pasted image 20230902014357.png",
     "Images/Pasted image 20230902012247.png",
     "Images/Pasted image 20230902012241.png",
     "Images/Pasted image 20230902001636.png",
+    "World",
+    "World/Gods",
+    "Campaign Notes/Sessions/Session 1",
+    "Campaign Notes/Sessions",
     "Campaign Notes/Players",
     "Images",
-    "Monsters",
-    "Session Notes/Mini Adventure",
-    "Session Notes",
-    "Countries/The Grand Coalition",
-    "Campaign Notes",
-    "Countries/Astaria"
+    "World/Monsters",
+    "Session Notes/Mini Adventure"
   ]
 }

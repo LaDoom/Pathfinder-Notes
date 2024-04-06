@@ -4,9 +4,9 @@ Players begin by being all brought together on a ship departing from [[Tuas Mera
 
 #### Traveling through the Grand Coalition
 
-The players will be tasked first with getting from the Port town of [[Strange Departures]],  will help the people and get a small elven artifact as a reward, by foot or horse they will travel towards their first city [[First Stand]].  on the road to [[first stand]] they will be attacked by a pack of wolves, the leader of which seems, larger and fiercer. more demonic somehow. There they will deal with a small situation in that city that will have a faint connection with the demons, a group of some kind causing trouble, the leader of which is like the dog, bigger and more dangerous somehow.
+The players will be tasked first with getting from the Port town of [[Strange Departures]],  will help the people and get a small elven artifact as a reward, by foot or horse they will travel towards their first city [[First Stand]].  on the road to [[First Stand]] they will be attacked by a pack of wolves, the leader of which seems, larger and fiercer. more demonic somehow. There they will deal with a small situation in that city that will have a faint connection with the demons, a group of some kind causing trouble, the leader of which is like the dog, bigger and more dangerous somehow.
 
-from there they head to the city of [[last stand]] and must deal with Lyndfallen, the elven collector of ancient Hithillian artefacts and a series of documents that are relevant to the strange supernatural events going on. 
+from there they head to the city of [[Last Stand]] and must deal with Lyndfallen, the elven collector of ancient Hithillian artefacts and a series of documents that are relevant to the strange supernatural events going on. 
 
 From here the players will travel through the grand coalition meeting contacts of the Circle of Arcanon, generally adventuring with money and fame with each exploit.  
 

@@ -1,3 +1,0 @@
-The remaining lands of the [[Elves|Hithillian]] Elves, now only narrowed down to a corner of the eastern world and a corner on the west, their cities are still grand, and their art some of the best in the world. Older generations of elves still remember the times of before, when their kingdom spanned the entire world, many still resent the world that has changed. 
-
-Other Younger generations of elves live not knowing the glory of before, and some are bitter at what they have lost but many others merely want to move on with life and grow what they have.

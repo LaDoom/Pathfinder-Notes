@@ -1,0 +1,5 @@
+One of the first nations after the start of the civil war, formed when the Blue Dragon 'Argoth' and his court emerged from the distant mountains and led a sect of rebels. The country is a collection of counties, ruled by local leaders who all look towards the ‘high Ruler’ Argoth. When one dies the counties vote for  who will be the next ruler. The counties are tense against each other but the nearby Astara keeps them all allied to each other.  
+  
+Culture and beliefs vary from county to county. Rednia is famed for its wines, but each county has a different culture, attitude and belief. Unlike the largely human [[Astaria]], these lands have many of the other races, liberated from the [[Elves]] rule thousands of years ago. the many races have set up their own colonies and counties within this country.
+
+The religion of the area is in the belief in the God of Dragons. 
