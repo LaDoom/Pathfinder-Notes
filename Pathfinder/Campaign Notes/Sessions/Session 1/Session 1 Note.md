@@ -26,6 +26,8 @@ It is at this climax when a member of the Starbreakers will open up a gateway to
 
 Captain Jurren, Orc Captain of the Blue Sprint
 
+- A tall orc, gruff and well seasoned by the sea
+- Voice: Gruff and french
 
 Sien Hakashura, Starbreaker Captain 
 
@@ -35,25 +37,6 @@ Arkine, Champion of Shambala
 
 - A tiefling dressed in slim black armour that shimmers strangely, from the closed helmet golden eyes pierce out, horns porotrude from the helm and curl back. 
 - Voice: speaks deep but confidently
-
-### Encounters
-
-#### The Gate opens
-Music: https://music.youtube.com/watch?v=OLdTjJKXuGo&si=GvNIYQRoVzNX-pZe
-
-At the end of the Festival one of the local leaders will make their way infront of the statue, and make an announcement to the crowd. as he is halfway through the two statues with streach and jag forming a archway that feels angry, the arm will detach and reach to their shoulders and from their backs the the rck will grow out. 
-
-One of the skybreakers with a purple choker is in an alleyway, chanting and forming the portal.
-
-one of crowd will leap up and kill them. as he dies they will open up a gate. in the crowd a bunch of starbreakers in disguise will begin attacking people in the streets of the 
-
-- When the gate there will be 2 turns before Arkeyne will emerge from the portal with creatures from the Umbral reaches that will begin destroying and taking over the city.
-- If he sees that the party have taken out the enemies with little damage on their side he will compliment them and allow them to flee the city.
-
-*Combat*
-
-In the fight there will be a 
-
 
 ### Random Names
 

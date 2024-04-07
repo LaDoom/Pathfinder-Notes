@@ -1,5 +1,7 @@
 The East docks is the second biggest dock in Yantai, mostly used for ships carrying legal goods, transport ships or where important diplomats will dock. There are a reasnoable amount of guards here and the amenities around are the best you can get for the Low Road. 
 
+https://www.youtube.com/watch?v=YZkFjWJVt6c&t=15s
+
 ### NPCs
 
 #### Captain Jurren
