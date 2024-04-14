@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Sessions/Session 1/Session 1 Note.md",
+                "file": "World/NPCS/Servents of Shamballa/Arkine.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,14 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Players/McRaye.md",
+                "file": "Campaign Notes/Sessions/Session 2/Session 2 Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Sessions/Session 1/Session 1 Note.md",
+                "file": "Campaign Notes/Sessions/Session 2/Session 2 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Sessions/Session 1/Session 1 Note.md",
+                "file": "Campaign Notes/Sessions/Session 2/Session 2 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Sessions/Session 1/Session 1 Note.md"
+                "file": "Campaign Notes/Sessions/Session 2/Session 2 Note.md"
               }
             }
           },
@@ -227,25 +227,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fae9e24da4308a91",
+  "active": "9ea7a1a48c8430d4",
   "lastOpenFiles": [
+    "World/NPCS/Servents of Shamballa/Sien Hakashura.md",
+    "Campaign Notes/Sessions/Session 1/Session 1 Note.md",
+    "Campaign Notes/Sessions/Session 2/Session 2 Note.md",
+    "World/NPCS/Servents of Shamballa/Arkine.md",
+    "Session -0/Primer.md",
+    "Campaign Notes/Arc 1.md",
+    "Campaign Notes/Players/McRaye.md",
+    "World/NPCS/Servents of Shamballa",
+    "Campaign Notes/Overarching Campaign.md",
+    "Session Notes/Mini Adventure/Session One.md",
+    "Session Notes/Session 1.md",
+    "World/Gods and The Far Realms/Shambala/The People of Shamballa.md",
+    "adea7f12e9280d4ae2eac56e4467e541.jpg",
+    "World/Gods and The Far Realms/Shambala",
+    "Campaign Notes/Sessions/Session 2",
     "Campaign Notes/Sessions/Session 1/Locations/The East Docks.md",
     "Campaign Notes/Sessions/Session 1/Locations/Duhuan Market.md",
-    "Session -0/Primer.md",
     "Campaign Notes/Lore Notes.md",
     "Campaign Notes/Important History Notes.md",
     "Campaign Notes/General History.md",
-    "Campaign Notes/Arc 1.md",
-    "Campaign Notes/Sessions/Session 1/Session 1 Note.md",
     "eba54e640584229785306dd8a1427e35.jpg",
     "World/Magic Items/Everburning Lantern.md",
     "World/Magic Items",
     "World/World.md",
-    "Campaign Notes/Overarching Campaign.md",
-    "Session Notes/Mini Adventure/Session One.md",
-    "Session Notes/Session 1.md",
     "World/Countries/Tuas Merah/Yantai.md",
-    "Campaign Notes/Players/McRaye.md",
     "Campaign Notes/Players/Molly.md",
     "Campaign Notes/Players/Catrick.md",
     "Campaign Notes/Players/Alania.md",
@@ -255,23 +263,16 @@
     "World/Ancestries/Humans.md",
     "World/Ancestries/Halfling.md",
     "World/Countries/Tuas Merah/yantai.png",
-    "World/Countries/Tuas Merah/Tuas Merah.md",
     "World/Countries/Tuas Merah/yantai 1.png",
     "World/Countries/Tuas Merah",
-    "World/NPCS/Wizards in the Circle of Arcanon/Wizards in the Circle of Arcanon.md",
-    "World/Organisations/Circle of Arcanon.md",
     "World/Map.jpg",
-    "World/NPCS/Wizards in the Circle of Arcanon/Frode The Black.md",
     "Images/Pasted image 20230902014357.png",
     "Images/Pasted image 20230902012247.png",
     "Images/Pasted image 20230902012241.png",
     "Images/Pasted image 20230902001636.png",
     "World",
-    "World/Gods",
+    "World/Gods and The Far Realms",
     "Campaign Notes/Sessions/Session 1",
-    "Campaign Notes/Sessions",
-    "Campaign Notes/Players",
-    "Images",
-    "World/Monsters"
+    "Campaign Notes/Sessions"
   ]
 }

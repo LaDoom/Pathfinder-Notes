@@ -1,0 +1,1 @@
+Half elf woman, Tall, well kept straight black hair, her left hand is coverd in small gauntlet of midnight purple runic tatoos from the elbow to the tips of her fingers.
