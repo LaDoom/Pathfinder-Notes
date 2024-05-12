@@ -1,0 +1,1 @@
+- A merchant or nobelperson who is essentially a medival flex-boi asshole 'I eat in taverns you cant afford' kinda vibes

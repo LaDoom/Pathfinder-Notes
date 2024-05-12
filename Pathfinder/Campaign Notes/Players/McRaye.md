@@ -4,6 +4,11 @@ Skeleton, dressed in clothes that cover much of his body. is quite muted as to n
 
 ### Personal Quest
 
+#### Curse of the emerald flag
+
+
+
+
 ### Backstory
 
 - Knew he was a sailor and was a member of a ship
