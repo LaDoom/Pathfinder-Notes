@@ -13,6 +13,8 @@ Perminent items:
 
 Consumables
 
+Oil of Weightlessness (Molly) 
+
 ### Recap
 
 - Party continued on the ship, getting to know each other and figure out a plan for the future. 
@@ -106,7 +108,7 @@ At the beginning of the day roll 1D20, if the roll is 16 or above roll on the en
 
 1D6
 
-1 - an abandoned boat wrecked on some rocks, with deep gashes along the hull of the ship. (Investigation finds bite marks) A long detour will dig up an oil of weightlessness in a floating satchel and 8Gp. most of the ship has been ransacked.
+1 - an abandoned boat wrecked on some rocks, with deep gashes along the hull of the ship. (Investigation finds bite marks) A long detour will dig up an oil of weightlessness in a floating satchel and 8Gp. most of the ship has been ransacked. - Happend
 
 2 - A Kenku and a female human kid cling from a wooden plank floating in the sea. They have no recollection of how they ended up like that, but can at least recall their names: the girl is called Sophie, while she says the Kenku is called Boomer.
 
