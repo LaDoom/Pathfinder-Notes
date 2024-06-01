@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/Sessions/Session 4/Session 4 Note.md",
+                "file": "Campaign Notes/Sessions/Session 5/Session 5 Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/Sessions/Session 4/Session 4 Note.md",
+                "file": "Campaign Notes/Sessions/Session 5/Session 5 Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/Sessions/Session 4/Session 4 Note.md",
+                "file": "Campaign Notes/Sessions/Session 5/Session 5 Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes/Sessions/Session 4/Session 4 Note.md"
+                "file": "Campaign Notes/Sessions/Session 5/Session 5 Note.md"
               }
             }
           },
@@ -231,15 +231,20 @@
   "active": "9ea7a1a48c8430d4",
   "lastOpenFiles": [
     "World/Countries/The Grand Coalition/Strange Departures.md",
+    "World/Organisations/The Children of Norika.md",
+    "Campaign Notes/Sessions/Session 5/Session 5 Note.md",
+    "Campaign Notes/Arc 1.md",
+    "Session Notes/Mini Adventure/Session One.md",
+    "Session Notes/Session 1.md",
+    "Session -0/Primer.md",
     "Campaign Notes/Sessions/Session 4/Session 4 Note.md",
+    "Campaign Notes/Sessions/Session 5",
     "World/NPCS/Merik.md",
     "DM Tools/Random Encounters.md",
     "DM Tools/World Notes.md",
-    "Session Notes/Session 1.md",
     "World/NPCS/Eodar Van.md",
     "World/Countries/Astaria/The Ruins of Tharund.md",
     "World/Countries/Astaria/Vacili.md",
-    "Session -0/Primer.md",
     "Campaign Notes/Sessions/Session 1/Session 1 Note.md",
     "World/Organisations/The Starbreakers.md",
     "World/Organisations/Circle of Arcanon.md",
@@ -248,14 +253,10 @@
     "Campaign Notes/Lore Notes.md",
     "World/NPCS/Vinn Vexler.md",
     "World/NPCS/NPC Ideas.md",
-    "Campaign Notes/Arc 1.md",
     "Campaign Notes/General History.md",
     "Campaign Notes/Important History Notes.md",
     "Campaign Notes/Overarching Campaign.md",
     "World/Gods and The Far Realms/Shambala/The People of Shamballa.md",
-    "World/Gods and The Far Realms/Solvrenna.md",
-    "World/Countries/Astaria/Astaria.md",
-    "Session Notes/Mini Adventure/Session One.md",
     "Campaign Notes/Sessions/Session 4",
     "World/Map.jpg",
     "Images/Naval-gunnery-cutout.webp",
@@ -274,7 +275,6 @@
     "Images/Pasted image 20230902014357.png",
     "Images/Pasted image 20230902012247.png",
     "Images/Pasted image 20230902012241.png",
-    "Images/Pasted image 20230902001636.png",
-    "World"
+    "Images/Pasted image 20230902001636.png"
   ]
 }
