@@ -30,8 +30,6 @@ In Strange Departures there is a plot by the secretary of the mayor to smuggle t
 
 Sea Devils have been attacking local fishermen, stealing loot and capsizing ships. So far there has only been one casualty, a tiefling who washed up on shore a few days ago, no one knows who she is. 
 
-The 
-
 
 ---
 
@@ -188,7 +186,7 @@ Music: [C:V X save room remix](https://music.youtube.com/watch?v=r2Zo5-6pYJY)
 
 Lore - built as one of many temples in collaboration with Tyric and in the belief in freedom of faith. A handful of people in the town believe in the god of the Kyedi and many other come and travel to prey to the god of knowledge. 
 
-Descriiption: 
+Description: 
 
 
 Encounters:
@@ -199,7 +197,7 @@ The body of the washed up Tiefling is being cared for here, to be buried in two 
 
 Half a days travel east along the coast (Survival Roll DC 16) will lead the players to the cave where a small clutch of Sea Devils have made camp with their Water Wolves (Reskinned dogs) are guarding
 
-at the end of the caves there will be a Sea Devil Brute praying to a make shift shrine made of the bones of men and sea life, tied with seaweed and kept in place by a ring of coral. This shrine is a small crack to demiplane of the Sea Devils god. Azrial can absorb some of this power, allowing him to grow stronger. This can only be done with Alanias Permission though 
+at the end of the caves there will be a Sea Devil Brute praying to a make shift shrine made of the bones of men and sea life, tied with seaweed and kept in place by a ring of coral. This shrine is a small crack to demiplane of the Sea Devils god. Azrial can absorb some of this power, allowing him to grow stronger. This can only be done with Alanias Permission though.
 
 (Following this the players will level up to 3)
 

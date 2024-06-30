@@ -1,0 +1,7 @@
+Ro-Jin is son of a powerful arms dealer in Tuas Merah, as a job to prove he is of worth to his father, the patriarch of his family, he has been entrusted to deliver important schematics for a 'light bomb' to a contact in the Grand Coallition. If this is not deliverd it will mean that Ro-Jin will be considered worthless to the family and his sister will become next in line, in the end he will be essentially demoted and forgotten in records or history. 
+
+A member of a mallitia force of Hithillan elves have caught wind of this weapon, and working with mercinairys and some parts of The Starbreakers, are trying to aquire it for their own goals of rebuilding their empire. 
+
+The leader of this Mallitia is a Hithillian, violently dedicated to rebuilding his house in the memory of his late husband, killed in the early days of the uprising in the Age of Chaos. Since then he has harbourd anger at all other races, but specifically Kyedi and Orcs, the projenitors and the figureheads of the slave rebbels. He takes joy in killing them like rats from afar and has taken to using a gnomish scoped rifle. 
+
+He believes that the stagnation of the elves is a failing of them, and the innovation of short lived races are what the elves are missing. He believes that the halflings, gnomes and humans are worth keeping around, and that they've shown that they deserve some rights, but that the hithillian rule should be above all. Their long lived forsight and stable rule will ease the chaos of the last millenia. and they can return to the old days, when things were better. 

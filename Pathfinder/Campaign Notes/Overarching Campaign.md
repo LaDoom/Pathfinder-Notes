@@ -7,3 +7,6 @@ In the kingdom of Astaria in the occupied and colonised land of Vacili a noble f
 Name of the group? - Focused on the revival of an older kingdom, not brotherhood or sons. 
 
 The Starbreakers - A group being organised and controlled by The Starbreaker king Kadrian lo Nirnros 
+
+At first stand the party will meet with one of the wizards, jeramiah and Mike, there is something happaning in first stand and he would be easially swayed into helping out instead of advising or research. 
+Mike just likes the antics jeramiah gets up to and goes along with him. 
