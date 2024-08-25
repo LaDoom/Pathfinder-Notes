@@ -31,16 +31,6 @@ The [[tiefling]] are held prisoner for at most two weeks as the shrouded passing
 
 With the second [[tiefling]] arrived, the third will be brought over the next night and a few days after that they will be moved across the continent and made slaves for the researchers in Sarah Rayah
 
-###### *Hooks*
-
-If the players ask around town they may catch wind of a story some of the children are talking about in town where they've seen the '*Snatchskin*' walking in the night around town. 
-
-The players may be awoken in the night by a noise, if the players stay up late they will get the chance to make a passive perception check (DC-13) to see if they will hear a noise outside, the players that can are allowed to make a perception check (also DC-13) to spot outside. 
-
-- if they succed they will see outside, where there are two large storage houses next to the sea that a rowing boat with two figures sails into the town and into one of these store houses, then half an hour later will row away. another ten minuets later the player will make another perception check (DC15) to see if they spot the people smugglers moving the [[tiefling]]  down the street and around the back of the general store where they are then lost. 
-
-The players may explore and find strange hints that something is going on, ma
-
 ###### *NPCs involved*
 
 Kellan Forthright - The Secretary of the Mayor of Strange Departures, he was moved here away from the city of [[last stand]] to act as assistant secretary, with the hope of rising up the ranks to the more handsomley rewarded Secretary position in a less rural town or village but he has been in the position for more than 5 years now and is begining to get impatiant. He and Noel Deramu have schemed together to raise enough money to set them up well together in [[Last Stand]] by smuggaling the [[Tiefling]] through the village. 
