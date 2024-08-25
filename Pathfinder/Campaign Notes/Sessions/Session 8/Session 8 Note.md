@@ -11,16 +11,24 @@ Perminent items:
 2 - 2nd +1 Rapier ([[McRaye]])
 2 - 1st - Everburning Lantern ([[Catrick]])
 
+Broach of shielding 
+braselets of dashing
+
+Scroll of Deafness
+Rune of Returning 
+Mesmerising oplal 
+
 Consumables
 
 Oil of Weightlessness ([[Molly]]) 
 
 ### Recap
 
-- The party simmered down the situation with the local mallitia and got the slaver to the sheriff Jannick
-- Investigated the corpse of the dead tiefling, confirming that she died attacked by sea devils and had rope burns around her wrist
-- Bought a cart to be repaired and a magic brooch 
-- Began traveling to the power that Azriel felt and encountered an overturned and crashed rowing boat on the coast. 
+- Found Merik had been following you for the last day, having snuck away from Ro-Jin
+- Began exploring cave, revealing a small temple to Solvrenna 
+- The Sea Devils had turned the temple into a nest
+- killed all the inhabitants of the nest, with the help of a summoned skeleton, took the trident from the chief
+- Picked the ruins clear for treasure. 
 
 ###  What is happaning
 
@@ -36,8 +44,8 @@ Sea Devils have been attacking local fishermen, stealing loot and capsizing ship
 #### The Champion of Shambala
 
 - Went to the Festival of orange lights
-	- Current Step: Yantai has been attacked by a group of warriors from another world, coming through a portal at the climax of a festival
-	- Next Step: Players have escaped on the Blue Sprinter, where a member of [[the Starbreakers]] have stowed abord to learn what they can about the players.
+- Yantai has been attacked by a group of warriors from another world, coming through a portal at the climax of a festival
+- Players have escaped on the Blue Sprinter, where a member of [[the Starbreakers]] have stowed abord to learn what they can about the players.
 
 #### The Mysterious Rat merchant
 
@@ -58,50 +66,61 @@ Sea Devils have been attacking local fishermen, stealing loot and capsizing ship
 
 
 
-### NPCs that might show up
+### Notable NPCs 
 
-Merik, survivor of Yantai (He/Him)
+######  Helaegor, skeleton of an ancient warrior 
 
-- A fifteen year old halfling boy who was only just let on the ship, instead of his older brothe, adoted by the party
-- wants to help the party kill monsters so he is capable to handle himself against the same monsters that attacked his home. 
-- He has began working on the ship to handle his anger
+- the bones and soul of an ancient warrior of Solvrenna, kept around to guard Molly
+- Goal is to defend Molly
+- he has little memory of his life before his death, but his fighting instincts have been kept intact. 
 
-Ro-Jin, merchant son of house Ro (He/They)
+###### Merik, survivor of Yantai (He/Him)
+
+- A fifteen year old halfling boy who was only just let on the ship, instead of his older brother, adopted by the party
+- his goal is to to help the party kill monsters so he is capable to handle himself against the same monsters that attacked his home. 
+- He is a bit autistic and will follow rules to the letter
+
+###### Ro-Jin, merchant son of house Ro (He/They)
 
 - A small ratfolk kyedi, dressed in a black and green longcoat, his left leg is crippled and he moves with a cane. 
 - Is paying for the blue sprinter to transport his families cargo to First Stand.
+- Has grown to like the group a little,
+- Speaks in good common but it is a little foreign 
 
+###### Pascal, slaver captive
 
-#### Edgewell pass
+- A dog trainer for criminal dog fights, dragged into the slave trade to pay for a debt. 
+- Goal is to get out safe and hopefully free. Slavers get registered and hung in The Coalition. 
+- If he knows that he's going to be turned in, he asks if the players would behead him, lost at sea and no word will ever get back to his family that he was a slaver. 
+- will offer to help in any way if it would earn him his freedom
+- speaks in a brooklyn accent
+- what he knows:
+	- got paid by Noelle, secretary of the mayor to transport the slaves
+	- The mayor isn't in on it (he asked)
 
-Pascal
+###### Voril, Tiefling ex-slave
 
-- A thief who came into town hiding from the law who became a servent for the Deramu family, Noel saw him swiping some gems from her fathers room on the day after Vorill escaped and instead of turning him in, offered to pay him to transport tieflings from Shri'lahn in Tuas Merah. 
+###### Fernand, Mayor of Strange Departures
 
 ### Locations
 
-#### Edgewell Caves
+#### Strange Departures
 
-Half a days travel east along the coast (Survival Roll DC 16) will lead the players to the cave where a small clutch of Sea Devils have made camp with their Water Wolves (Reskinned dogs) are guarding
+Lore - This moderate sized fishing town is a small stop off point for travelers and traders making their way to some of the more central cities in The Grand Coallition. Their fishers has recently been dealing with attacks from an encampment of Sea Devils, believed to be about half a days journey east along the coast. many of the fishermen here are wounded, ones wounds have began to become infected and is believed he could die soon. 
 
-at the end of the caves there will be a Sea Devil Brute praying to a make shift shrine made of the bones of men and sea life, tied with seaweed and kept in place by a ring of coral. This shrine is a small crack to demiplane of the Sea Devils god. Azrial can absorb some of this power, allowing him to grow stronger. This can only be done with Alanias Permission though.
+Authorisation for the guard to attack the Sea Devils needs to come from the regional Government and the mayor is firm to the rules even if it is to the detriment of the city. Hireing mercinairies to deal with this problem though is perfectly acceptable. 
 
-(Following this the players will level up to 3)
+Description - A coastal town, square buildings and red roofs A large, white marbled manor stands out from the other buildings (this is the town hall) and a domed temple of Norika with a metal symbol of the moon and sun standing tall.
 
-The cave goes into a small temple, filled with traps and snares set up by the Sea Devil chief. 
+#### Town Hall (Mayors House)
 
-![[map_22x25.png]]
+Lore - The Town Hall is also the residence of the mayor, who lives in the secure second floor. It is common along The Coalition for elected individuals to live in their place of work, as a show of dedication to the community. 
 
-1 - Entrance hallways, there is a tripwire that will set off a bell, alerting all enemies in the dungeon
+It is guarded day and night and the entrances between floors have heavy locks for security
 
-2 - The old dineing room, the sea devils have used this place to store captured prey and the tables and chairs have been smashed to pieces to turn into spike traps in other rooms. 
+Description - Rebuilt out of the remaining Elven ruins at the edge of town. decorated in colourful banners and the flag of the Coallition (red with two hands grasping)
 
-3 - sleeping quarters, the floor is recessed and has been filled with water, clutches of sea devil eggs are here
-
-4 - the old kitchen/food prep, a refuse of scavanged items, searching through the piles of junk will find, depending on level of success: Mesmerising opal and Scroll of deafness
-
-5 - alter room, there is a sea devil brute and 2 allies here, they are preying to a vile shrine of an anchient sea god, the floor is slick with the blood of many sea creatures that they are gutting to the god. There is a rune of Returning in the hands of the shrine and Azrial can absorb power from it. 
-
+Encounters - Ro-Jin and the Mayor Fernand have coralled a group of citizens to search for Merik, they are planning routes and teams.
 
 ### Random Names
 
@@ -123,27 +142,29 @@ The cave goes into a small temple, filled with traps and snares set up by the Se
 
 ### Random Encounters
 
-Traveling from the Eastern Caves, if the players fail their survival roll then roll a D4 on the encounter table below
+*Traveling back from the Eastern Caves* - D6
 
 1 -  They're attacked by 1D4 sea Devils and 1D3 Sea Dogs
 
-2 - Perception check to the person leading the group or they land in a snare trap, the hunter is nearby, searching the coast for game
+2 - They meet a hunter, Daan, deep in the woods tracking game. They live alone from the town and trade pelts with them.  
 
-3 - they find a lone, overgrown shrine to the goddess of the waves, in her stone neckless is a single blue gem worth 10GP 
+3 - Nothing happens
 
-4 - 
+4 - they find a lone, overgrown shrine to the goddess of the waves, in her stone neckless is a single blue gem worth 10GP 
 
+5 - Nothing Happens
 
-### Encounters
+6 - Stumble upon a cliff face with a beautiful view over the coastline, can see Strange Departures
 
 
 ---
 
 ### Stat Blocks
 
-[Pirate](https://2e.aonprd.com/NPCs.aspx?ID=952)
-[Pirate/Ship Captain](https://2e.aonprd.com/NPCs.aspx?ID=954)
-[Guard/Sailor](https://2e.aonprd.com/NPCs.aspx?ID=933)
+[Sea Devil Scout](https://2e.aonprd.com/Monsters.aspx?ID=358)
+[Sea Devil Brute](https://2e.aonprd.com/Monsters.aspx?ID=359)
+[Sea Wolf](https://2e.aonprd.com/Monsters.aspx?ID=3241&Redirected=1)
+
 
 
 
